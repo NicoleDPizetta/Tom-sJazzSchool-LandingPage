@@ -212,7 +212,7 @@ footer nav a {
     text-align: center;
 }
 
-/* ----------------------- MEDIA QUERY ----------------------- */
+/* ----------------------- MEDIA QUERY -------------------------- */
 @media screen and (min-width: 40rem) {
     header nav {
         display: block;

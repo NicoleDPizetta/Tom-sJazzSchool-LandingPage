@@ -1,9 +1,7 @@
 <h1 align="center"> 🤘🏻 Tom's Jazz School - LadingPage </h1>
 
 BR: Este é um projeto de estudo executado acompanhando um tutorial no Youtube feito pela [One Bit Code](https://www.youtube.com/@OneBitCode). <br>
-EN: This is a study project based on a tutorial on Youtube made by [One Bit Code](https://www.youtube.com/@OneBitCode).
-
-</p>
+EN: This is a study project based on a tutorial on Youtube made by [One Bit Code](https://www.youtube.com/@OneBitCode). </p>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
@@ -15,11 +13,11 @@ EN: This is a study project based on a tutorial on Youtube made by [One Bit Code
 
 #### Desktop
 
-![](./assets/Desktop-gif.gif)
+![](./assets/Desktop-preview.gif)
 
 #### Mobile
 
-![](./assets/Mobile-gif.gif)
+![](./assets/Mobile-preview.gif)
 
 ## 🤘🏻 Tecnologias usadas | Technologies used
 
