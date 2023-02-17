@@ -9,7 +9,7 @@ EN: This is a study project based on a tutorial on Youtube made by [One Bit Code
 
 ## 🤘🏻 Preview site
 
-[Clique aqui | Click here](https://nicoledpizetta.github.io/Tom'sJazzSchool-LandingPage/)
+[Clique aqui | Click here](https://nicoledpizetta.github.io/Tom-sJazzSchool-LandingPage/)
 
 #### Desktop
 
