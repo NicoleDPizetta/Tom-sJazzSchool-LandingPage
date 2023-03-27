@@ -1,4 +1,4 @@
-<h1 align="center"> 🤘🏻 Tom's Jazz School - LadingPage </h1>
+<h1 align="center"> 🤘🏻 Tom's Jazz School - Landing Page </h1>
 
 BR: Este é um projeto de estudo executado acompanhando um tutorial no Youtube feito pela [One Bit Code](https://www.youtube.com/@OneBitCode). <br>
 EN: This is a study project based on a tutorial on Youtube made by [One Bit Code](https://www.youtube.com/@OneBitCode). </p>
